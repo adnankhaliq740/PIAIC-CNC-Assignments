@@ -1,0 +1,30 @@
+.coral{
+  background-color: coral;
+}
+.blue{
+  background-color: deepskyblue;
+}
+.lightp{
+  background-color: deeppink; 
+}
+.voil{
+  background-color: blueviolet;
+}
+.brown{
+  background-color: brown;
+}
+.coral{
+  background: coral;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background: lightgreen;
+}
+.pink{
+  background-color: pink;  
+}
+.unk{
+  background-color: #cf8c20ff
+}
