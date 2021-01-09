@@ -1,0 +1,23 @@
+.card{
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.col{
+  width: 250px;
+}
+
+.row{
+  display: flex;
+  justify-content: space-around;
+}
+.cont{
+  width: 200px;
+  padding: 12px;
+}
+.btn{
+  background-color: rgb(67, 202, 230);
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 10px 22px;
+}
