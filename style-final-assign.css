@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/** top nav with social icons **/
+
+
+
+.nav-1{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(27, 31, 38);
+  position: relative;
+}
+.list_style>li{
+  display: inline;
+  list-style: none;
+  border: 1px solid black;
+  border-radius: 30px;
+  padding: 0px 5px;
+  margin: 10px 0px;
+  align-self: center;
+  background-color: rgb(43, 50, 61);
+}
+.list_style>li>a{
+  list-style: none;
+  text-decoration: none;
+  padding: 0 5px;
+  align-items:  center;
+  color: white
+}
+.list_style>li>a:hover{
+  list-style: none;
+  text-decoration: none;
+  padding: 0 5px;
+  color: red;
+}
+
+.btn{
+  background-color: rgb(114, 184, 64);
+  border: 1px;
+  padding: 5px;
+  
+}
+
+ul{
+  display: flex;
+  padding: 0 10px;
+}
+
+
+/** nav-2 main **/
+
+
+.nav-2{
+   display: flex;
+   justify-content: space-between;
+   background-color: red;
+   position: relative;
+   padding: 10px 0;
+}
+.list_style2>li,a{
+  text-decoration: none;
+  list-style-type: none;
+  padding: 5px 5px;
+  margin-top: 10px;
+}
+
+
+/* slider */
+
+
+
+
+/* adv-items */
+
+.adv-items>li{
+  list-style-type: none;
+  padding: 0 10px;
+  width: 100%;
+}
+.head-adv{
+  padding: 15px 0;
+}
+
+
+
+/* About us */
+
+
+
+.content-cont > p{
+  color: red;
+  width: 50%;
+}
+
+.content-cont{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+/* SERVICES */
+
+
+.card{
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.row{
+  display: flex;
+  justify-content: space-between;
+}
+.cont{
+  padding: 3px 10px;
+}
+
+/*  */
