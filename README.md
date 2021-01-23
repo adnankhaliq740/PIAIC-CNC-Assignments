@@ -3,5 +3,4 @@
 
 
 note:
-
-i did these exercises on mobile so there maybe problem of responsiveness
+i did these exercises on mobile so there maybe problem of responsiveness on pc
