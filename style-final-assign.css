@@ -87,33 +87,52 @@ ul{
 
 /* About us */
 
-
+.abtus{
+  padding: 30px;
+}
 
 .content-cont > p{
-  color: red;
   width: 50%;
 }
 
 .content-cont{
   display: flex;
   justify-content: space-between;
-  padding-top: 20px;
+  padding: 0 20px;
 }
 
 /* SERVICES */
 
 
-.card{
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+
+
+.OURSER{
+  padding: 30px;
 }
 
-
-.row{
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+.row {
   display: flex;
-  justify-content: space-between;
-}
-.cont{
-  padding: 3px 10px;
+  justify-content: space-around;
 }
 
-/*  */
+.column{
+  width: 160px;
+  padding: 20px;
+}
+
+/* start your project */
+
+.ma-cont{
+  background: rgb(128, 235, 14);
+  padding: 20px 30px;
+}
+.form>form>input{
+  padding: 10px 0;
+  color: red;
+}
