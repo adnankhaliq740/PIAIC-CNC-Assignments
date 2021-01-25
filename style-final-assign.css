@@ -68,7 +68,13 @@ ul{
 
 /* slider */
 
-
+.btn2{
+  color: white;
+  background-color: orange;
+  padding: 7px 10px;
+  margin: 5px 5px;
+  border: none;
+}
 
 
 /* adv-items */
@@ -109,21 +115,49 @@ ul{
   padding: 30px;
 }
 
-.card {
+.cardd {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
   text-align: center;
   background-color: #f1f1f1;
 }
-.row {
+.roww {
   display: flex;
   justify-content: space-around;
 }
 
-.column{
-  width: 160px;
-  padding: 20px;
+.columnn{
+  padding: 50px;
 }
+
+
+/* PORTFOLIO */
+
+.main{
+  background-color: rgb(10, 9, 5);
+  padding: 20px 10px;
+}
+
+.items>ul>li>a{
+  text-decoration: none;
+}
+.items>ul>li>a:hover{
+  color: orange;
+}
+
+.white{
+  background-color: white;
+}
+.red{
+  background-color: red;
+}
+.unk{
+  background-color: darkgray;
+}
+.logos>img{
+  margin: -2px;
+}
+
 
 /* start your project */
 
