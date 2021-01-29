@@ -157,6 +157,57 @@ ul{
   margin: -2px;
 }
 
+/* affordable plans  */
+
+.cnt-1{
+  padding: 20px 20px;
+}
+
+.pack{
+  display: flex;
+  justify-content: center;
+}
+.colm>ul{
+  list-style-type: none;
+  display: unset;
+}
+.ext>ul {
+  list-style-type: none;
+  display: unset;
+}
+.colm{
+  margin: 0 90px;
+  padding: 10px 10px;
+  width: 50%;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  background-color: #FFFFFF;
+}
+.ext{
+   margin: 0 100px;
+   padding: 0 50px;
+   text-align: center;
+   /* width: 50%; */
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   /* padding: 16px; */
+   background-color: #FFFFFF;
+}
+
+.but{
+  transform: translateX(85%);
+  background-color: #4452F1;
+  border: none;
+  color: white;
+  padding: 5px 7px
+  
+}
+
+
+
+
+
+
 /* our process */
 
 .cnt-2{
