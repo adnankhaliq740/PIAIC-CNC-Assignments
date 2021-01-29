@@ -95,7 +95,6 @@ ul{
 .abtus{
   padding: 30px;
 }
-
 .content-cont > p{
   width: 50%;
 }
@@ -135,7 +134,7 @@ ul{
 
 .main{
   background-color: rgb(10, 9, 5);
-  padding: 20px 10px;
+  padding: 30px 10px;
 }
 
 .items>ul>li>a{
@@ -157,6 +156,63 @@ ul{
 .logos>img{
   margin: -2px;
 }
+
+/* our process */
+
+.cnt-2{
+  padding: 20px;
+}
+
+.clm{
+  text-align: center;
+}
+ .gg-shape-circle {
+   box-sizing: border-box;
+   position: relative;
+   margin: 0 30px;
+   display: block;
+   width: 70px;
+   height: 66px;
+   border: .5px solid;
+   border-radius: 100px
+ }
+.proc{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+/* peeps about us */
+
+.reviews{
+  display: flex;
+}
+.imgt{
+  align-self: center;
+  padding: 0 10px;
+}
+.abus{
+  padding: 30px;
+}
+.abus>hr{
+  display: flex;
+}
+
+
+/* our skills */
+
+.skills{
+  display: flex;
+  justify-content: center;
+}
+.skills>figure{
+  padding: 0 10px;
+}
+
+
+
 
 
 /* start your project */
